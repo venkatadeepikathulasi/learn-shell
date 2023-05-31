@@ -1,3 +1,3 @@
 # learn-shell
 # comments 
-ramdeepi
+echo "Iam learning Intellij"
